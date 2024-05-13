@@ -21,6 +21,6 @@ I'm always open to collaboration and learning from fellow QA enthusiasts. If you
 
 ### Let's Get Testing! 🧪
 
-Thanks for stopping by! Dive into the code, explore the projects, and raise the bar for software quality together. Happy testing!
+Thanks for stopping by! Happy testing!
 
 ---
