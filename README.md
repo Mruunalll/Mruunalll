@@ -1,6 +1,6 @@
 ### Welcome to My QA World! 🚀
 
-Hey there! I'm Mrunal Patil, and I'm thrilled to welcome you to my GitHub repository. Here, you'll find a collection of projects, scripts, and resources related to Software Quality Assurance(QA). 
+Hey there! I'm Mrunal Patil, I'm thrilled to welcome you to my GitHub repository. Here, you'll find a collection of projects, scripts, and resources related to Software Quality Assurance(QA). 
 
 ### About Me
 
@@ -19,7 +19,7 @@ Let's connect and geek out over QA together! Feel free to reach out on:
 
 I'm always open to collaboration and learning from fellow QA enthusiasts. If you're interested in partnering up on a project or want to chat about QA methodologies, don't hesitate to get in touch!
 
-### Let's Get Testing! 🧪
+### Let's Get Testing! 🛠️
 
 Thanks for stopping by! Happy testing!
 
