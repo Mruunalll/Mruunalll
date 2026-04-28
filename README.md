@@ -36,7 +36,7 @@ This GitHub profile is where I share my testing learnings, automation exploratio
 I'm always open to connecting with fellow QA professionals, sharing knowledge, and collaborating on quality-driven workflows.
 
 - 🌐 **LinkedIn**: [linkedin.com/in/mrunalpatil23](https://www.linkedin.com/in/mrunalpatil23)  
-- 📧 **Email**: riamrunalpatil@gmail.com
+- 📧 **Email**: mrunalsp09@gmail.com
 
 ---
 
