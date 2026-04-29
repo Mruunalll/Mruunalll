@@ -39,10 +39,10 @@ This GitHub profile highlights structured QA test suites: test plans, test cases
 
 ## 👩‍💻 About Me
 
-- 💼 **Role:** QA Engineer (Manual + Automation + QA AI testing learning path)
+- 💼 **Role:** QA Engineer (Manual + Automation + QA AI testing)
 - 🔍 **Focus:** Functional Testing, UI/UX Testing, Regression, Exploratory Testing
 - 📦 **Experience With:** Gutenberg Block Editor, Starter Templates, SureForms, SureForms Business, Spectra
-- 🤖 **Automation:** Playwright E2E basics, page objects, Dockerized test execution
+- 🤖 **Automation:** Playwright E2E, page objects, Dockerized test execution
 - 📚 **Education:** Master in Computer Applications (MCA)
 - 🌍 **Location:** Pune, India
 
