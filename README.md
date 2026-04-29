@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My QA World! 🚀</h1>
 
-Hi, I'm **Mrunal Patil** — a **Manual QA Engineer | Aspiring SDET | Cybersecurity Enthusiast** focused on high-quality web, mobile, WordPress, and AI application testing.
+Hi, I'm **Mrunal Patil** — a **Manual QA Engineer | Aspiring Automation Testing Engineer | Aspiring SDET | Aspiring QA AI Testing Engineer | Cybersecurity Enthusiast** focused on high-quality web, mobile, WordPress, and AI application testing.
 
 This GitHub profile highlights structured QA test suites: test plans, test cases, bug reports, exploratory charters, RTMs, test summary reports, and Playwright automation projects built for recruiter-ready review.
 
@@ -33,13 +33,13 @@ This GitHub profile highlights structured QA test suites: test plans, test cases
 
 ## 🛠 Skills & Tools
 
-`Manual Testing` `Test Case Design` `Bug Reporting` `RTM` `Exploratory Testing` `Usability Testing` `Boundary Value Analysis` `Negative Testing` `Regression Testing` `WordPress Testing` `Mobile Testing` `Playwright` `JavaScript` `Page Object Model` `Docker` `Chrome DevTools` `BrowserStack` `Jira` `Postman` `Git` `GitHub`
+`Manual Testing` `Automation Testing` `QA AI Testing` `Test Case Design` `Bug Reporting` `RTM` `Exploratory Testing` `Usability Testing` `Boundary Value Analysis` `Negative Testing` `Regression Testing` `WordPress Testing` `Mobile Testing` `Playwright` `JavaScript` `Page Object Model` `Docker` `Chrome DevTools` `BrowserStack` `Jira` `Postman` `Git` `GitHub`
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💼 **Role:** QA Engineer (Manual + Automation learning path)
+- 💼 **Role:** QA Engineer (Manual + Automation + QA AI testing learning path)
 - 🔍 **Focus:** Functional Testing, UI/UX Testing, Regression, Exploratory Testing
 - 📦 **Experience With:** Gutenberg Block Editor, Starter Templates, SureForms, SureForms Business, Spectra
 - 🤖 **Automation:** Playwright E2E basics, page objects, Dockerized test execution
