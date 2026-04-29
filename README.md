@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My QA World! 🚀</h1>
 
-Hi, I'm **Mrunal Patil** — a **Manual QA Engineer | Aspiring Automation Testing Engineer | Aspiring SDET | Aspiring QA AI Testing Engineer | Cybersecurity Enthusiast** focused on high-quality web, mobile, WordPress, and AI application testing.
+Hi, I'm **Mrunal Patil** — a **Manual QA Engineer | Automation Testing Engineer | Aspiring SDET | Aspiring QA AI Testing Engineer | Cybersecurity Enthusiast** focused on high-quality web, mobile, WordPress, and AI application testing.
 
 This GitHub profile highlights structured QA test suites: test plans, test cases, bug reports, exploratory charters, RTMs, test summary reports, and Playwright automation projects built for recruiter-ready review.
 
