@@ -5,7 +5,8 @@
 <p align="center">
   <a href="mailto:mrunalsp09@gmail.com">mrunalsp09@gmail.com</a> |
   <a href="https://linkedin.com/in/mrunalpatil23">LinkedIn</a> |
-  <a href="https://github.com/Mruunalll">GitHub</a>
+  <a href="https://github.com/Mruunalll">GitHub</a> |
+  <a href="https://mruunalll.github.io/qa-agent-os/">Portfolio</a>
 </p>
 
 <p align="center">
@@ -110,4 +111,5 @@ Platforms: DigiLocker, SancharSaathi, API Setu, MeriPehchaan, OpenForge, Poshan 
 
 - LinkedIn: [linkedin.com/in/mrunalpatil23](https://linkedin.com/in/mrunalpatil23)
 - Email: [mrunalsp09@gmail.com](mailto:mrunalsp09@gmail.com)
+- Portfolio: [mruunalll.github.io/qa-agent-os](https://mruunalll.github.io/qa-agent-os/)
 - Portfolio projects: [github.com/Mruunalll](https://github.com/Mruunalll)
