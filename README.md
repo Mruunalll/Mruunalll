@@ -6,11 +6,11 @@
   <a href="mailto:mrunalsp09@gmail.com">mrunalsp09@gmail.com</a> |
   <a href="https://linkedin.com/in/mrunalpatil23">LinkedIn</a> |
   <a href="https://github.com/Mruunalll">GitHub</a> |
-  <a href="https://mruunalll.github.io/qa-agent-os/">Portfolio</a>
+  <a href="https://mruunalll.github.io/qa-agent-os/">QA Site</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-4.7%20Years-blue?style=for-the-badge" alt="4.7 years experience" />
+  <img src="https://img.shields.io/badge/Experience-Close%20to%205%20Years-blue?style=for-the-badge" alt="Close to 5 years experience" />
   <img src="https://img.shields.io/badge/Playwright-E2E-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright E2E" />
   <img src="https://img.shields.io/badge/JavaScript%2FTypeScript-Automation-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript and TypeScript automation" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088ff?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Postman-API%20Testing-ff6c37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Testing" />
 </p>
 
-Senior QA Engineer and SDET with **4.7 years** across SaaS, WordPress, AI-powered workflows, and government digital platforms. Strong in manual QA, Playwright automation, API validation, OWASP-aligned security testing, CI/CD quality gates, and release ownership.
+Senior QA Engineer and SDET with **close to 5 years** across SaaS, WordPress, AI-powered workflows, and government digital platforms. Strong in manual QA, Playwright automation, API validation, OWASP-aligned security testing, CI/CD quality gates, and release ownership.
 
 Career proof: **500+ manual test cases**, **200+ Playwright automation cases**, **95%+ release stability**, **35% regression-cycle reduction**, **15+ critical security vulnerabilities identified**, and QA ownership across **10+ products**.
 
@@ -32,19 +32,19 @@ Career proof: **500+ manual test cases**, **200+ Playwright automation cases**, 
 | **Automation/SDET** | Built Playwright E2E suites with POM, parallel execution, CI/CD gates, Docker, fixtures, and reports |
 | **Security QA** | Tested OWASP Top 10 risks including SQLi, XSS, IDOR, broken auth, API access-control issues |
 | **API Testing** | Validated REST APIs with Postman across auth, payloads, errors, and integration contracts |
-| **AI Testing** | Tested ZipWP AI builder, SureTriggers automation workflows, ChatGPT-style QA suites, prompt/response behavior |
+| **AI Testing** | Tested ZipWP AI builder, SureTriggers automation workflows, SureForms AI generation, SureWriter-style writing flows, prompt/response behaviour, hallucination risk, and agent workflow validation |
 | **Release Ownership** | Owned QA strategy and sign-off for SaaS/WordPress releases with zero critical escapes on SureForms launch |
 
 ---
 
-## Featured QA Portfolio
+## Featured QA Evidence
 
 | Project | Type | Evidence | Focus Areas |
 |---------|------|---------:|-------------|
 | [SureForms Plugin Test Suite](https://github.com/Mruunalll/SureForms-Plugin-Test-Suite-Manual-Automation) | WordPress Plugin + Playwright | 181 cases designed | SureForms, Business version, POM, Docker, smoke, validation, WIP execution evidence |
 | [E-Commerce QA](https://github.com/Mruunalll/ecommerce-manual-qa-test-suite) | Web + Mobile Manual QA | 35 cases / 12 defects | WooCommerce, cart, checkout, coupons, responsive UX |
 | [WordPress Astra QA](https://github.com/Mruunalll/wordpress-astra-qa-test-suite) | WordPress Theme QA | 30 cases / 10 defects | Astra, Starter Templates, regression, responsive UI, data integrity |
-| [AI Application QA](https://github.com/Mruunalll/ai-application-qa-test-suite) | AI/SaaS QA | 32 cases / 11 defects | Prompt validation, hallucination risk, file upload, session/state, usability |
+| [AI Application QA](https://github.com/Mruunalll/ai-application-qa-test-suite) | AI/SaaS QA | 32 cases / 11 defects | Prompt validation, prompt injection, hallucination risk, output filtering, file upload, session/state, usability |
 | Playwright Automation Framework | SDET Framework | 200+ automation cases | Login flows, form submissions, API mocking, cross-browser, GitHub Actions, Allure |
 | OWASP Security Testing Checklist | Security QA | 15+ critical issues found | SQLi, XSS, IDOR, broken auth, API vulnerability checks, remediation notes |
 
@@ -74,7 +74,7 @@ Products: Astra, Starter Templates, Spectra, CartFlows, ZipWP, SureTriggers, Sur
 - Built Playwright automation suite covering 200+ cases, cutting regression from 3 days to under 8 hours.
 - Integrated Playwright into GitHub Actions quality gates, improving release cadence by ~20%.
 - Owned QA strategy and release sign-off for ZipWP, SureTriggers, and SureForms launch workflows.
-- Tested AI-powered SaaS workflows, form logic, integrations, and automation triggers.
+- Tested AI-powered SaaS workflows including ZipWP website generation, SureTriggers automation chains, SureForms AI form generation, and SureWriter writing-assistant flows.
 
 ### Security Testing Engineer — NIC / DigiLocker
 **Oct 2021 – Nov 2022 · Delhi, India**
@@ -111,5 +111,5 @@ Platforms: DigiLocker, SancharSaathi, API Setu, MeriPehchaan, OpenForge, Poshan 
 
 - LinkedIn: [linkedin.com/in/mrunalpatil23](https://linkedin.com/in/mrunalpatil23)
 - Email: [mrunalsp09@gmail.com](mailto:mrunalsp09@gmail.com)
-- Portfolio: [mruunalll.github.io/qa-agent-os](https://mruunalll.github.io/qa-agent-os/)
-- Portfolio projects: [github.com/Mruunalll](https://github.com/Mruunalll)
+- QA site: [mruunalll.github.io/qa-agent-os](https://mruunalll.github.io/qa-agent-os/)
+- QA evidence projects: [github.com/Mruunalll](https://github.com/Mruunalll)
