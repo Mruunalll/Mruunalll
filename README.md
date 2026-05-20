@@ -110,4 +110,4 @@ Platforms: DigiLocker, SancharSaathi, API Setu, MeriPehchaan, OpenForge, Poshan 
 
 - LinkedIn: [linkedin.com/in/mrunalpatil23](https://linkedin.com/in/mrunalpatil23)
 - Email: [mrunalsp09@gmail.com](mailto:mrunalsp09@gmail.com)
-- Portfolio: `mruunalll.github.io/qa-agent-os`
+- Portfolio projects: [github.com/Mruunalll](https://github.com/Mruunalll)
