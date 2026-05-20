@@ -1,68 +1,104 @@
-<h1 align="center">Welcome to My QA World! 🚀</h1>
+<h1 align="center">Mrunal Patil</h1>
 
-<h3 align="center">SDET | QA Automation Engineer | AI Testing</h3>
+<h3 align="center">Senior QA Engineer | SDET | Security QA | AI Testing</h3>
 
 <p align="center">
+  <a href="mailto:mrunalsp09@gmail.com">mrunalsp09@gmail.com</a> |
+  <a href="https://linkedin.com/in/mrunalpatil23">LinkedIn</a> |
+  <a href="https://github.com/Mruunalll">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-4.7%20Years-blue?style=for-the-badge" alt="4.7 years experience" />
   <img src="https://img.shields.io/badge/Playwright-E2E-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright E2E" />
-  <img src="https://img.shields.io/badge/JavaScript-Tests-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Tests" />
-  <img src="https://img.shields.io/badge/Docker-Ready-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Ready" />
+  <img src="https://img.shields.io/badge/JavaScript%2FTypeScript-Automation-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript and TypeScript automation" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088ff?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-Test%20Execution-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-API%20Testing-ff6c37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Testing" />
 </p>
 
-Hi, I'm **Mrunal Patil** — a QA Engineer focused on manual testing, Playwright automation, WordPress QA, AI application testing, and security-minded testing.
+Senior QA Engineer and SDET with **4.7 years** across SaaS, WordPress, AI-powered workflows, and government digital platforms. Strong in manual QA, Playwright automation, API validation, OWASP-aligned security testing, CI/CD quality gates, and release ownership.
 
-**QA experience:** Practical QA portfolio experience across **4 projects** covering web, mobile, WordPress, plugin, and AI/SaaS testing.
-
-This GitHub profile highlights structured QA test suites: test plans, test cases, bug reports, exploratory charters, RTMs, test summary reports, and Playwright automation projects built for recruiter-ready review.
+Career proof: **500+ manual test cases**, **200+ Playwright automation cases**, **95%+ release stability**, **35% regression-cycle reduction**, **15+ critical security vulnerabilities identified**, and QA ownership across **10+ products**.
 
 ---
 
-## 🧪 Featured QA Test Suites
+## Impact Snapshot
 
-| Project | Platform | Test Cases | Bugs / Status | Focus Areas |
-|---------|----------|-----------:|--------------:|-------------|
-| [SureForms Plugin Test Suite](https://github.com/Mruunalll/SureForms-Plugin-Test-Suite-Manual-Automation) | WordPress Plugin + Playwright | 181 | WIP | SureForms, Business version, Playwright E2E, Docker, form validation |
-| [E-Commerce QA](https://github.com/Mruunalll/ecommerce-manual-qa-test-suite) | Web + Mobile | 35 | 12 | WooCommerce, cart, checkout, coupons, mobile UX |
-| [WordPress Astra QA](https://github.com/Mruunalll/wordpress-astra-qa-test-suite) | CMS / Plugin | 30 | 10 | Theme testing, Starter Templates, data integrity, regression |
-| [AI Application QA](https://github.com/Mruunalll/ai-application-qa-test-suite) | AI / SaaS | 32 | 11 | Chat UI, file upload, state testing, usability, input validation |
-
-**Portfolio proof:** 278 total test cases designed · 97 test cases executed · 33 defects identified · 9 exploratory charters · 3 RTMs · Playwright + Docker automation added
-
----
-
-## 🔍 What I Do
-
-- Designed **278 test cases** across web, mobile, WordPress, plugin, and AI/SaaS projects
-- Executed **97 manual test cases** and documented **33 defects** with severity, priority, impact, and reproduction steps
-- Created **9 exploratory charters** and **3 RTMs** for structured QA traceability
-- Built a WordPress plugin QA project with **181 SureForms test cases**, Playwright E2E coverage, and Docker execution
-- Use Playwright with page objects, reusable test data, headed runs, reports, and honest WIP status tracking
+| Area | Proof |
+|------|-------|
+| **Manual QA** | Designed/executed 500+ cases across functional, regression, UI, exploratory, cross-browser, and mobile testing |
+| **Automation/SDET** | Built Playwright E2E suites with POM, parallel execution, CI/CD gates, Docker, fixtures, and reports |
+| **Security QA** | Tested OWASP Top 10 risks including SQLi, XSS, IDOR, broken auth, API access-control issues |
+| **API Testing** | Validated REST APIs with Postman across auth, payloads, errors, and integration contracts |
+| **AI Testing** | Tested ZipWP AI builder, SureTriggers automation workflows, ChatGPT-style QA suites, prompt/response behavior |
+| **Release Ownership** | Owned QA strategy and sign-off for SaaS/WordPress releases with zero critical escapes on SureForms launch |
 
 ---
 
-## 🛠 Skills & Tools
+## Featured QA Portfolio
+
+| Project | Type | Evidence | Focus Areas |
+|---------|------|---------:|-------------|
+| [SureForms Plugin Test Suite](https://github.com/Mruunalll/SureForms-Plugin-Test-Suite-Manual-Automation) | WordPress Plugin + Playwright | 181 cases designed | SureForms, Business version, POM, Docker, smoke, validation, WIP execution evidence |
+| [E-Commerce QA](https://github.com/Mruunalll/ecommerce-manual-qa-test-suite) | Web + Mobile Manual QA | 35 cases / 12 defects | WooCommerce, cart, checkout, coupons, responsive UX |
+| [WordPress Astra QA](https://github.com/Mruunalll/wordpress-astra-qa-test-suite) | WordPress Theme QA | 30 cases / 10 defects | Astra, Starter Templates, regression, responsive UI, data integrity |
+| [AI Application QA](https://github.com/Mruunalll/ai-application-qa-test-suite) | AI/SaaS QA | 32 cases / 11 defects | Prompt validation, hallucination risk, file upload, session/state, usability |
+| Playwright Automation Framework | SDET Framework | 200+ automation cases | Login flows, form submissions, API mocking, cross-browser, GitHub Actions, Allure |
+| OWASP Security Testing Checklist | Security QA | 15+ critical issues found | SQLi, XSS, IDOR, broken auth, API vulnerability checks, remediation notes |
+
+---
+
+## Core Skills
 
 | Category | Skills |
 |----------|--------|
-| **Testing** | Manual Testing, Functional Testing, Regression Testing, UI/UX Testing, Exploratory Testing, Negative Testing, Boundary Value Analysis |
-| **Automation** | Playwright, JavaScript, Page Object Model, Test Data Fixtures, Headed Runs, HTML Reports |
-| **Tools** | Docker, Postman, Chrome DevTools, BrowserStack, Jira, Git, GitHub |
-| **Platforms** | WordPress, WooCommerce, SureForms, SureForms Business, Gutenberg, AI/SaaS apps, Mobile Web |
+| **Manual Testing** | Test planning, test case design, execution, regression, exploratory, UI/UX, smoke, UAT, RTM, QA sign-off |
+| **Automation/SDET** | Playwright, JavaScript, TypeScript, Page Object Model, parallel execution, fixtures, GitHub Actions, Docker, Allure |
+| **API Testing** | Postman, REST APIs, auth validation, request/response testing, contract checks, integration flow validation |
+| **Security QA** | OWASP Top 10, SQL Injection, XSS, IDOR, broken authentication, API vulnerability assessment, Burp Suite basics |
+| **AI QA** | Prompt/response validation, hallucination-risk testing, state/session testing, AI agent workflow validation |
+| **Tools/Platforms** | Jira, OpenForge, Git, GitHub, Figma, Zephyr Scale, TestRail basics, WordPress, Android testing, SaaS platforms |
 
 ---
 
-## 👩‍💻 About Me
+## Experience Highlights
 
-- 💼 **Role:** QA Engineer focused on QA Automation and AI Testing
-- 🔍 **Focus:** Functional Testing, UI/UX Testing, Regression, Exploratory Testing, WordPress QA
-- 📦 **Experience With:** Gutenberg Block Editor, Starter Templates, SureForms, SureForms Business, Spectra
-- 🤖 **Automation:** Playwright E2E, page objects, reusable fixtures, Dockerized test execution
-- 📚 **Education:** Master in Computer Applications (MCA)
-- 🌍 **Location:** Pune, India
+### Senior QA Engineer / SDET — Brainstorm Force
+**Nov 2022 – Mar 2026 · Pune, India**
+
+Products: Astra, Starter Templates, Spectra, CartFlows, ZipWP, SureTriggers, SureForms, SureRank, SureMail, SureWriter.
+
+- Designed and executed 500+ manual cases across 10 SaaS/WordPress products.
+- Built Playwright automation suite covering 200+ cases, cutting regression from 3 days to under 8 hours.
+- Integrated Playwright into GitHub Actions quality gates, improving release cadence by ~20%.
+- Owned QA strategy and release sign-off for ZipWP, SureTriggers, and SureForms launch workflows.
+- Tested AI-powered SaaS workflows, form logic, integrations, and automation triggers.
+
+### Security Testing Engineer — NIC / DigiLocker
+**Oct 2021 – Nov 2022 · Delhi, India**
+
+Platforms: DigiLocker, SancharSaathi, API Setu, MeriPehchaan, OpenForge, Poshan Tracker, UMANG.
+
+- Executed OWASP Top 10-aligned testing across 7 government platforms.
+- Identified 15+ critical vulnerabilities affecting SQLi, XSS, IDOR, and access-control risks.
+- Tested REST APIs for auth flaws, injection risks, payload handling, and access-control gaps.
+- Validated security fixes through regression before release cycles.
 
 ---
 
-## 📊 GitHub Activity
+## Certifications & Education
+
+- ISTQB Foundation Level (CTFL) — In Progress
+- Playwright Automation Professional Certificate — LambdaTest / Test Automation University, 2024
+- Ethical Hacking Introduction — EC-Council / Coursera, 2022
+- UX Design Foundations — Google / Coursera, 2023
+- MCA — Pimpri Chinchwad College of Engineering, Pune
+- B.Sc Computer Science — Moolji Jaitha College, Jalgaon
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mruunalll&show_icons=true&hide_border=true" alt="Mrunal Patil GitHub stats" />
@@ -70,13 +106,8 @@ This GitHub profile highlights structured QA test suites: test plans, test cases
 
 ---
 
-## 🤝 Let's Connect
+## Connect
 
-- 🌐 **LinkedIn:** [linkedin.com/in/mrunalpatil23](https://www.linkedin.com/in/mrunalpatil23)
-- 📧 **Email:** mrunalsp09@gmail.com
-
----
-
-Thanks for visiting my GitHub. Let's build better software — one tested feature at a time.
-
-**Happy Testing!** 🛠️
+- LinkedIn: [linkedin.com/in/mrunalpatil23](https://linkedin.com/in/mrunalpatil23)
+- Email: [mrunalsp09@gmail.com](mailto:mrunalsp09@gmail.com)
+- Portfolio: `mruunalll.github.io/qa-agent-os`
