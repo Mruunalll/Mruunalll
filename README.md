@@ -92,10 +92,4 @@ At Brainstorm Force, I performed dedicated AI output validation on SureForms, St
 
 ---
 
-## 📊 GitHub Stats
-
-![Mrunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mruunalll&show_icons=true&hide_border=true)
-
----
-
 *Thanks for stopping by. I find the bugs. The weird ones. The ones hiding in the edge cases.*
